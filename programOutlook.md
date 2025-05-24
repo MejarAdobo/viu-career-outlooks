@@ -1,0 +1,121 @@
+# Programs with no job titles
+- Fundamentals of Forest Harvesting Practices:4194
+- Anthropology Honours (BA):6530
+- Bachelor of Arts (BA), Honours, Majors, and Minors:289
+- Culinary Management:287
+- Languages and Culture (Romance Languages) (BSc):3356
+- Languages and Culture (Romance Languages) (BA): 319
+- First Nations Housing Manager:194
+- Culinary Arts:179
+- Marine and Motorcycle Mechanical Technician:230
+- Mathematics (BA):223
+- Bachelor of Natural Resource Protection:178
+- Bachelor of Science in Fisheries and Aquaculture:163
+- Kinesiology (BA):233
+- Economics (BA):186
+- Studies in Women and Gender (BA):246
+- Political Studies (BA):229
+- Event Management Certificate:193
+- Office Administration:152
+- Bachelor of Social Work:159
+- Arts One - First Nations:155
+- Management Skills for Supervisors:277
+- Bachelor of Hospitality Management:143
+- Business Fundamentals for Indigenous Communities:177
+- Dental Hygiene:198
+- Adult Basic Education:208
+- Bachelor of Design in Graphic Design:212
+- Aquaculture (BSc):9004
+- Aquaculture (BA):9000
+- Earth Science (BA):290
+- Philosophy Honours (BA):3270
+- Proficiency in Language and Culture:295
+- Legal Studies:3442
+- Digital Media (BA):189
+- Hairstylist Foundation:205
+- Jazz Studies:221
+- Resource Management Officer Technology:243
+- Media Studies (BA):236
+- Sociology (BA):250
+- Creative Writing and Journalism (BA):195
+- History (BA):213
+- Geography (BA):214
+- Philosophy (BA):226
+- Biology (BA):160
+- Digital Media Studies (BA):188
+- Early Childhood Education and Care:181
+- Wine Business:255
+- Child and Youth Care (BA):150
+- Bachelor of Education:157
+- Child and Youth Care First Nations Diploma:174
+- Dental Assistant:190
+- Master of Education in Educational Leadership:238
+- Activity Assistant:146
+- Bachelor of Science in Nursing:170
+- Recreation and Sport Management:248
+- Bachelor of Music in Jazz Studies:139
+- Visual Art (BA):251
+- Master of Arts in Sustainable Leisure Management:231
+- Master of Business Administration (MBA):235
+- Professional Indigenous Lands Management Certificate:7138
+- Bachelor of Science (BSc), Honours, Majors, Minors, and Transfer:164
+- Psychology (BSc):247
+- English (BA):187
+- Anthropology (BA):140
+- Community Mental Health Worker:167
+- Master of Education in Special Education:222
+- Bachelor of Education - Post Baccalaureate:151
+- Foundations for Success:207
+- Workplace Essential Skills and Training:242
+- Certificate in Adventure Tourism and Recreation:1301
+- Master of Geographic Information Systems (GIS) Applications:293
+- Refrigeration Air-Conditioning Mechanic:253
+- Heavy Mechanical Trades Foundation:216
+- Horticultural Technician Foundation:210
+- Aboriginal Construction:153
+- Information Technology and Applied Systems – Systems Administration and Networking Diploma:228 * I will probably email Brandon for this
+- Forest Resources Technology:215
+- Biology (BSc):165
+- Chemistry (BA):171
+- Fisheries and Aquaculture Technology:203
+- Psychology (BA):258
+- Business (BA):176
+- Criminology (BA):185
+- Health Care Assistant:217
+- Child and Youth Care Diploma:172
+- Certificate in Business Management:169
+- Hospitality Management Diploma:237
+- Bachelor of Interior Design:149
+- Tourism Studies:261
+- Indigenous/Xwulmuxw Studies (BA):4980
+- Education Assistant and Community Support:1338
+- Global Studies (BA):199
+- Liberal Studies (BA):220
+- Practical Nursing:259
+- Aboriginal University Bridging:158
+
+# Programs with few job titles (1-3 job titles)
+- Biology Honours:4123
+- Geography Honours (BA):7113
+- Baking and Pastry Arts Management:9005
+- Professional Baking and Pastry Arts:260
+- Bachelor of Tourism Management:161
+- Earth Science (BSc):182
+- Social Services:254
+- Esthetics and Spa Therapy:9185
+- Sociology Honours (BA):3326
+- Welding:252
+- Heavy Equipment Operator:204
+- Automotive Service Technician:147
+- Criminology:197
+- Geography (BSc):209
+- Geoscience (BSc):211
+- History Honours (BA):3318
+- Electrician:183
+- Power Engineering/Process Operator - 4th Class:240
+- Bachelor of Kinesiology:7125
+- Master of Community Planning:294
+- English Honours (BA):1341
+- Theatre:249
+- Carpentry:175
+- Visual Art:256
